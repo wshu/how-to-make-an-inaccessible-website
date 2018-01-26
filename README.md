@@ -1,4 +1,4 @@
-# How to make an inaccessible website
+# How To Make An Inaccessible Website
 
 Everyone is **different**.  Everyone thinks and behaves **differently**.  That's what makes us unique. Web accessibility is about making the web for everyone, being inclusive and providing access for all. 
 
