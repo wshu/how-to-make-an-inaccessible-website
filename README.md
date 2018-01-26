@@ -6,3 +6,6 @@ In order to do that it is important to recognise the different areas, skills and
 
 The following is an **incomplete** list has been used to create an inaccessible website, more on that to follow.  Here's my brain dump.
 
+
+[![William Shu](https://wshu.github.io/me.png "yep, that's me")](https://williamshu.com)
+
