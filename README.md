@@ -8,6 +8,8 @@ The following is an **incomplete** list has been used to create an inaccessible 
 
 ## <a id="back-top"></a> Table of Contents
 
+- [Business](#section-business)
+- [Users](#section-users)
 - [Design](#section-design)
 - [Development](#section-development)
 - [Testing](#section-testing)
@@ -15,8 +17,21 @@ The following is an **incomplete** list has been used to create an inaccessible 
 - [Ops](#section-ops)
 - [Security](#section-security)
 - [Content](#section-content)
+- [Support](#section-support)
+- [Users](#section-usersagain)
 - [General](#section-general)
-- [Credits](#section-credits)
+
+---
+
+## <a id="section-business"></a> Business
+
+<a href="#back-top">Back to list</a>
+
+---
+
+## <a id="section-users"></a> Users
+
+<a href="#back-top">Back to list</a>
 
 ---
 
@@ -57,6 +72,18 @@ The following is an **incomplete** list has been used to create an inaccessible 
 ---
 
 ## <a id="section-content"></a> Content
+
+<a href="#back-top">Back to list</a>
+
+---
+
+## <a id="section-support"></a> Support
+
+<a href="#back-top">Back to list</a>
+
+---
+
+## <a id="section-users"></a> Users
 
 <a href="#back-top">Back to list</a>
 
