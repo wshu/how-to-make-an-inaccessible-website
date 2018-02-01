@@ -28,10 +28,10 @@ The following is an **incomplete** list has been used to create an inaccessible 
 ...
 
 ### Dos
-- [ ] ...
+- [ ] Do 
 
 ### Don'ts
-- [ ] ...
+- [ ] Don't 
 
 <a href="#back-top">Back to list</a>
 
@@ -42,10 +42,10 @@ The following is an **incomplete** list has been used to create an inaccessible 
 ...
 
 ### Dos
-- [ ] ...
+- [ ] Do 
 
 ### Don'ts
-- [ ] ...
+- [ ] Don't 
 
 <a href="#back-top">Back to list</a>
 
@@ -56,10 +56,10 @@ The following is an **incomplete** list has been used to create an inaccessible 
 ...
 
 ### Dos
-- [ ] ...
+- [ ] Do 
 
 ### Don'ts
-- [ ] ...
+- [ ] Don't 
 
 <a href="#back-top">Back to list</a>
 
@@ -70,10 +70,10 @@ The following is an **incomplete** list has been used to create an inaccessible 
 ...
 
 ### Dos
-- [ ] ...
+- [ ] Do 
 
 ### Don'ts
-- [ ] ...
+- [ ] Don't 
 
 <a href="#back-top">Back to list</a>
 
@@ -84,10 +84,10 @@ The following is an **incomplete** list has been used to create an inaccessible 
 ...
 
 ### Dos
-- [ ] ...
+- [ ] Do 
 
 ### Don'ts
-- [ ] ...
+- [ ] Don't 
 
 <a href="#back-top">Back to list</a>
 
@@ -98,10 +98,10 @@ The following is an **incomplete** list has been used to create an inaccessible 
 ...
 
 ### Dos
-- [ ] ...
+- [ ] Do 
 
 ### Don'ts
-- [ ] ...
+- [ ] Don't 
 
 <a href="#back-top">Back to list</a>
 
@@ -112,10 +112,10 @@ The following is an **incomplete** list has been used to create an inaccessible 
 ...
 
 ### Dos
-- [ ] ...
+- [ ] Do 
 
 ### Don'ts
-- [ ] ...
+- [ ] Don't 
 
 <a href="#back-top">Back to list</a>
 
@@ -126,10 +126,10 @@ The following is an **incomplete** list has been used to create an inaccessible 
 ...
 
 ### Dos
-- [ ] ...
+- [ ] Do 
 
 ### Don'ts
-- [ ] ...
+- [ ] Don't 
 
 <a href="#back-top">Back to list</a>
 
@@ -140,10 +140,10 @@ The following is an **incomplete** list has been used to create an inaccessible 
 ...
 
 ### Dos
-- [ ] ...
+- [ ] Do 
 
 ### Don'ts
-- [ ] ...
+- [ ] Don't 
 
 <a href="#back-top">Back to list</a>
 
@@ -154,10 +154,10 @@ The following is an **incomplete** list has been used to create an inaccessible 
 ...
 
 ### Dos
-- [ ] ...
+- [ ] Do 
 
 ### Don'ts
-- [ ] ...
+- [ ] Don't 
 
 <a href="#back-top">Back to list</a>
 
@@ -168,10 +168,10 @@ The following is an **incomplete** list has been used to create an inaccessible 
 ...
 
 ### Dos
-- [ ] ...
+- [ ] Do 
 
 ### Don'ts
-- [ ] ...
+- [ ] Don't 
 
 <a href="#back-top">Back to list</a>
 
@@ -182,10 +182,10 @@ The following is an **incomplete** list has been used to create an inaccessible 
 ...
 
 ### Dos
-- [ ] ...
+- [ ] Do 
 
 ### Don'ts
-- [ ] ...
+- [ ] Don't 
 
 <a href="#back-top">Back to list</a>
 
