@@ -25,11 +25,27 @@ The following is an **incomplete** list has been used to create an inaccessible 
 
 ## <a id="section-business"></a> Business
 
+...
+
+### Dos
+- [ ] ...
+
+### Don'ts
+- [ ] ...
+
 <a href="#back-top">Back to list</a>
 
 ---
 
 ## <a id="section-users"></a> Users
+
+...
+
+### Dos
+- [ ] ...
+
+### Don'ts
+- [ ] ...
 
 <a href="#back-top">Back to list</a>
 
@@ -37,11 +53,27 @@ The following is an **incomplete** list has been used to create an inaccessible 
 
 ## <a id="section-design"></a> Design
 
+...
+
+### Dos
+- [ ] ...
+
+### Don'ts
+- [ ] ...
+
 <a href="#back-top">Back to list</a>
 
 ---
 
 ## <a id="section-development"></a> Development
+
+...
+
+### Dos
+- [ ] ...
+
+### Don'ts
+- [ ] ...
 
 <a href="#back-top">Back to list</a>
 
@@ -49,11 +81,27 @@ The following is an **incomplete** list has been used to create an inaccessible 
 
 ## <a id="section-testing"></a> Testing
 
+...
+
+### Dos
+- [ ] ...
+
+### Don'ts
+- [ ] ...
+
 <a href="#back-top">Back to list</a>
 
 ---
 
 ## <a id="section-performance"></a> Performance
+
+...
+
+### Dos
+- [ ] ...
+
+### Don'ts
+- [ ] ...
 
 <a href="#back-top">Back to list</a>
 
@@ -61,11 +109,27 @@ The following is an **incomplete** list has been used to create an inaccessible 
 
 ## <a id="section-ops"></a> Ops
 
+...
+
+### Dos
+- [ ] ...
+
+### Don'ts
+- [ ] ...
+
 <a href="#back-top">Back to list</a>
 
 ---
 
 ## <a id="section-security"></a> Security
+
+...
+
+### Dos
+- [ ] ...
+
+### Don'ts
+- [ ] ...
 
 <a href="#back-top">Back to list</a>
 
@@ -73,11 +137,27 @@ The following is an **incomplete** list has been used to create an inaccessible 
 
 ## <a id="section-content"></a> Content
 
+...
+
+### Dos
+- [ ] ...
+
+### Don'ts
+- [ ] ...
+
 <a href="#back-top">Back to list</a>
 
 ---
 
 ## <a id="section-support"></a> Support
+
+...
+
+### Dos
+- [ ] ...
+
+### Don'ts
+- [ ] ...
 
 <a href="#back-top">Back to list</a>
 
@@ -85,11 +165,27 @@ The following is an **incomplete** list has been used to create an inaccessible 
 
 ## <a id="section-users"></a> Users
 
+...
+
+### Dos
+- [ ] ...
+
+### Don'ts
+- [ ] ...
+
 <a href="#back-top">Back to list</a>
 
 ---
 
 ## <a id="section-general"></a> General
+
+...
+
+### Dos
+- [ ] ...
+
+### Don'ts
+- [ ] ...
 
 <a href="#back-top">Back to list</a>
 
