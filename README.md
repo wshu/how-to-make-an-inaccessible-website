@@ -603,8 +603,8 @@ List of Don'ts: ❌
 - [ ] Don't ensure `<label>` elements match the corresponding correct form controls.
 - [ ] Don't ensure `checkbox` input elements has a unique `label` assigned.
 - [ ] Don't ensure each `checkbox` input elements has a unique `id` attribute value.
-- [ ] Don't ensure `radiobox` input elements has a unique `label` assigned.
-- [ ] Don't ensure each `radiobox` input elements has a unique `id` attribute value.
+- [ ] Don't ensure `radio` input elements has a unique `label` assigned.
+- [ ] Don't ensure each `radio` input elements has a unique `id` attribute value.
 - [ ] Don't ensure visually hidden `<label>` elements are still available to screen readers.
 
 [back to top](#table-of-contents)
