@@ -847,7 +847,7 @@ List of Don'ts: ❌
 - [ ] Don't use any automated accessibility tools.
 - [ ] Don't test with just the keyboard.
 - [ ] Don't use assistive technology such as screen readers or magnifiers.
-- [ ] Don't use third party screen readers like JAWS or NVDA.
+- [ ] Don't use third party screen readers.
 - [ ] Don't use native operating system screen readers like Voice Over on MacOS and iOS or Narrator on Windows.
 
 [back to top](#table-of-contents)
