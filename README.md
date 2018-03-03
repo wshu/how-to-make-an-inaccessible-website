@@ -247,7 +247,7 @@ List of Don'ts: ❌
 - [ ] Don't properly identify the language change within portions of the page `lang="[ISO 639-1 code]"`.
 - [ ] Don't consider other audiences or content flow - everyone, everywhere reads left to right.
 - [ ] Don't offer 'glossary of items' if nature of site and content is technical or profession based.
-- [ ] Don't use established HTML Editors like TinyMCE or CKEditor to produce compliant user generated web content.
+- [ ] Don't use established HTML Editors to produce compliant user generated web content.
 - [ ] Don't use a native speaker to help translate content into other said languages.
 - [ ] Don't consider providing other languages especially for public funded web projects - e.g. UK project, provide English and Welsh as standard.
 
