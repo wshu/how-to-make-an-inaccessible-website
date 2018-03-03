@@ -882,7 +882,6 @@ List of Don'ts: ❌
 - [ ] Don't allow option to show password when signing up - user memories are fine.
 - [ ] Don't show informative password strength checker.
 - [ ] Don't allow passwords to be auto generate by the user.
-- [ ] Don't have HTTP headers information set correctly - server, XPB, RP, XFO, XXSSP, XCTO, STS, ECT, CSP, SRI.
 - [ ] Don't have cookies set correctly - HTTPS, Secure, SameSite.
 
 [back to top](#table-of-contents)
