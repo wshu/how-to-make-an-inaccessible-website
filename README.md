@@ -939,7 +939,7 @@ List of Don'ts: ❌
 
 - [ ] Don't use and analyse analytics on your site.
 - [ ] Don't use SEO techniques on your site - users only navigate one way.
-- [ ] Don't use marketing toolkits like SEMrush.
+- [ ] Don't use marketing toolkits.
 - [ ] Don't use data structure tools.
 - [ ] Don't use enhanced meta data Schema.org.
 - [ ] Don't use enhanced meta data OpenGraph.
