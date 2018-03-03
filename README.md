@@ -240,6 +240,7 @@ List of Dos: ✔️
 - [ ] Do use slang words.
 - [ ] Do use specific regional language.
 - [ ] Do overly rely on automated translation services to convert page into another language.
+- [ ] Do use language focusing on one gender.
 
 List of Don'ts: ❌
 
