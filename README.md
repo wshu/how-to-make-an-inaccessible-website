@@ -191,7 +191,6 @@ List of Don'ts: ❌
 - [ ] Don't use any caching - always best to get everything fresh from the server every time.
 - [ ] Don't use <abbr title="Authoring Tools Accessibility Guidelines">ATAG</abbr> compliant CMS's.
 - [ ] Don't use mainstream UTAG compliant user agents.
-- [ ] Don't use <abbr title="Model-view-controller">MVC</abbr> frameworks for templating (views) like ASP.NET Core 2 or Laravel.
 - [ ] Don't use `.webmanifest` format, with correct mime types, for different device home screens.
 - [ ] Don't use relevant server config file (for URL rewrite, redirection, custom error pages, TLS, proxy server, etc., etc.).
 
