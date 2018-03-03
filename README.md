@@ -977,7 +977,7 @@ List of Don'ts: ❌
 - [ ] Don't train staff about possible supporting offline services (e.g. you offer a large print version).
 - [ ] Don't train support staff about user accessibility needs and requirements.
 - [ ] Don't use support staff that know the system or have <abbr title="Network Operations Centre">NOC</abbr> access - too costly to use good support staff.
-- [ ] Don't have a real time system status page if providing critical services - <abbr title="Software as a Service">SaaS</abbr>.
+- [ ] Don't have a real time system status page if providing critical services.
 - [ ] Don't believe the myth that the user is always right - always assume they are wrong until proven otherwise.
 - [ ] Don't offer cross teams any training, workshops or meetups for accessibility awareness.
 - [ ] Don't **intentional secret placeholder**.
