@@ -32,7 +32,7 @@ The following is a common **incomplete** checklist on what is involved in making
   - [Buttons](#buttons)
   - [Keyboard Access](#keyboard-access)
   - [Frames](#frames)
-  - [Focus, Behaviour and States](#states-behaviour-and-focus)
+  - [Focus, Behaviour and States](#focus-behaviour-and-states)
   - [Time Based](#time-based)
   - [HTML](#html)
   - [CSS](#css)
