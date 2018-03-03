@@ -716,7 +716,7 @@ List of Dos: ✔️
 - [ ] Do log out users after unreasonable of time - say 10 minutes.
 - [ ] Do set live chat to log out after 5 minutes of inactivity.
 - [ ] Do auto fade important messages - chances are users have read it first time.
-- [ ] Do use third party sign in methods (OAuth) that offer different user experiences.
+- [ ] Do use third party sign in methods that offer different user experiences.
 
 List of Don'ts: ❌
 
