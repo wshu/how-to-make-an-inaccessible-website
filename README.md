@@ -713,11 +713,10 @@ List of Don'ts: ❌
 
 List of Dos: ✔️
 
-- [ ] Do set idle timeout to less than 10 minutes.
+- [ ] Do log out users after unreasonable of time - say 10 minutes.
 - [ ] Do set live chat to log out after 5 minutes of inactivity.
 - [ ] Do auto fade important messages - chances are users have read it first time.
 - [ ] Do use third party sign in methods (OAuth) that offer different user experiences.
-- [ ] Do log out users after unreasonable of time - 10 minutes.
 
 List of Don'ts: ❌
 
