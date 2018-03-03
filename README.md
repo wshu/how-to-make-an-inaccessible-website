@@ -40,7 +40,6 @@ The following is a common **incomplete** checklist on what is involved in making
 - [Testing](#testing)
 - [Security](#security)
 - [Performance](#performance)
-- [Ops](#ops)
 - [Digital Marketing](#digital-marketing)
 - [Support](#support)
 - [General](#general)
@@ -920,21 +919,6 @@ List of Don'ts: ❌
 - [ ] Don't use DNS Prefetch.
 - [ ] Don't ensure web apps are scalable.
 - [ ] Don't ensure hosting platforms support scalable web apps.
-
-[back to top](#table-of-contents)
-
----
-## Ops
-
-...
-
-List of Dos: ✔️
-
-- [ ] Do ...
-
-List of Don'ts: ❌
-
-- [ ] Don't ...
 
 [back to top](#table-of-contents)
 
