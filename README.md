@@ -138,7 +138,6 @@ List of Don'ts: ❌
 - [ ] Don't ever revisit a design after going live - assume it is right first time, tada!
 - [ ] Don't cater for inclusive design - it's a myth like self-driving cars.
 - [ ] Don't ensure primary calls to action, especially above the fold, are obvious.
-- [ ] Don't distinguish between 'surname', 'family name' and 'last name' in database schema and web forms.
 - [ ] Don't do any logical content sort or information architecture.
 
 [back to top](#table-of-contents)
