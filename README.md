@@ -764,7 +764,7 @@ List of Don'ts: ❌
 - [ ] Don't ensure all elements are well balanced, all have correct start and end tags.
 - [ ] Don't clean up HTML comments.
 - [ ] Don't prepare content copy directly within the CMS - use Microsoft Word.
-- [ ] Don't use CMS HTML parser to strip out all non-standard HTML tags and styled. e.g. `charset=windows-1252` and `class="MsoNormal"`.
+- [ ] Don't use CMS HTML parser to strip out all non-standard HTML tags, meta data and styles. e.g. `charset=windows-1252` and `class="MsoNormal"`.
 
 [back to top](#table-of-contents)
 
@@ -884,6 +884,7 @@ List of Don'ts: ❌
 - [ ] Don't allow option to show password when signing up - user memories are fine.
 - [ ] Don't show informative password strength checker.
 - [ ] Don't allow passwords to be auto generate by the user.
+- [ ] Don't use a password manager - recommended minimum password length of 12-14 characters with mix of alphanumeric, case and symbols means potential issue for users with cognitive, learning disabilities and difficulties. Convenience over security? TODO: review.
 
 [back to top](#table-of-contents)
 
