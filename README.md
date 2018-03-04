@@ -851,7 +851,7 @@ List of Don'ts: ❌
 - [ ] Don't test with just the keyboard.
 - [ ] Don't use assistive technology such as screen readers or magnifiers.
 - [ ] Don't use third party screen readers.
-- [ ] Don't use native operating system screen readers like Voice Over on MacOS and iOS or Narrator on Windows.
+- [ ] Don't use native operating system screen readers and other built-in assistive technologies and features.
 
 [back to top](#table-of-contents)
 
