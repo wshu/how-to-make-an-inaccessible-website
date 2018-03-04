@@ -391,6 +391,7 @@ List of Don'ts: ❌
 - [ ] Don't make focus elements distinguishable when tabbing.
 - [ ] Don't offer high contrast modes or themes.
 - [ ] Don't use fixed colour states.
+- [ ] Don't use background colours as fall backs when using background images - users may have images disabled or no longer available from third-party sources.
 
 [back to top](#table-of-contents)
 
