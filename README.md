@@ -1031,9 +1031,9 @@ Some basic but key resources that support and give guidance on why web accessibi
 - [Web Accessibility Initiative (WAI)](https://www.w3.org/WAI/ "Opens in new window")
 - [Web Content Accessibility Guidelines (WCAG) 2.0](https://www.w3.org/TR/WCAG20/ "Opens in new window")
 - [Web Content Accessibility Guidelines (WCAG) 2.1](https://w3c.github.io/wcag21/guidelines/ "Opens in new window")
-- [Accessible Rich Internet Applications (ARIA)](https://www.w3.org/TR/wai-aria-1.1/ "Opens in new window")
-- [Authoring Tool Accessibility Guidelines (ATAG)](https://www.w3.org/TR/ATAG20/ "Opens in new window")
-- [User Agent Accessibility Guidelines (UAAG)](https://www.w3.org/TR/UAAG20/ "Opens in new window")
+- [Accessible Rich Internet Applications (ARIA) 1.1](https://www.w3.org/TR/wai-aria-1.1/ "Opens in new window")
+- [Authoring Tool Accessibility Guidelines (ATAG) 2.0](https://www.w3.org/TR/ATAG20/ "Opens in new window")
+- [User Agent Accessibility Guidelines (UAAG) 2.0](https://www.w3.org/TR/UAAG20/ "Opens in new window")
 - [ISO/IEC 40500:2012 (W3C)](https://www.iso.org/standard/58625.html "Opens in new window")
 - [BS 8878:2010 Web accessibility. Code of practice](https://shop.bsigroup.com/ProductDetail/?pid=000000000030180388 "Opens in new window")
 
