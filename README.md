@@ -43,6 +43,7 @@ The following is a common **incomplete** checklist on what is involved in making
 - [Digital Marketing](#digital-marketing)
 - [Support](#support)
 - [General](#general)
+- [License](#license)
 - [Credits](#credits)
 - [Resources](#resources)
 
