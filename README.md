@@ -884,7 +884,6 @@ List of Don'ts: ❌
 - [ ] Don't allow option to show password when signing up - user memories are fine.
 - [ ] Don't show informative password strength checker.
 - [ ] Don't allow passwords to be auto generate by the user.
-- [ ] Don't use a password manager - recommended minimum password length of 12-14 characters with mix of alphanumeric, case and symbols means potential issue for users with cognitive, learning disabilities and difficulties. Convenience over security? TODO: review.
 
 [back to top](#table-of-contents)
 
