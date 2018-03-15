@@ -236,7 +236,7 @@ Lugha ya kumbukumbu na lugha ya maudhui.
 
 List of Dos: ✔️
 
-- [ ] Do interchange British English and American English spelling variations such as 'centre' / 'center', 'colour' / 'colour', 'behaviour' / 'behavior', etc., etc.
+- [ ] Do interchange British English and American English spelling variations such as 'centre' / 'center', 'color' / 'colour', 'behavior' / 'behaviour', '-ize' / '-ise', etc., etc.
 - [ ] Do use technobabble.
 - [ ] Do use slang words.
 - [ ] Do use specific regional language.
